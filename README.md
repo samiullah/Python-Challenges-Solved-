@@ -3,4 +3,4 @@
 3. Write a program to print file extension: extensionTeller.py
 4. Write a program to print only two colors from given list colorpicker.py
 5. Write a program to print a date in specified format dateformat.py
-6. # Write a Python program to print the calendar of a given month and year. calendar.py
+6.  Write a Python program to print the calendar of a given month and year. calendar.py
